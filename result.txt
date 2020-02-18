@@ -1,0 +1,5 @@
+Valid: samil_90_@hotmail.com
+Valid: ddcommodity@ddcap.co.uk
+Invalid: recep.@gmail.com
+Valid: Operations@richmondcommodities.com
+Valid: ddcapdocumentation@ddcap.co.uk

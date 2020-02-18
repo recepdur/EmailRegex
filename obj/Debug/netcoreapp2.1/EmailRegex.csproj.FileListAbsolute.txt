@@ -1,0 +1,11 @@
+D:\Proje\EmailRegex\bin\Debug\netcoreapp2.1\EmailRegex.deps.json
+D:\Proje\EmailRegex\bin\Debug\netcoreapp2.1\EmailRegex.runtimeconfig.json
+D:\Proje\EmailRegex\bin\Debug\netcoreapp2.1\EmailRegex.runtimeconfig.dev.json
+D:\Proje\EmailRegex\bin\Debug\netcoreapp2.1\EmailRegex.dll
+D:\Proje\EmailRegex\bin\Debug\netcoreapp2.1\EmailRegex.pdb
+D:\Proje\EmailRegex\obj\Debug\netcoreapp2.1\EmailRegex.csprojAssemblyReference.cache
+D:\Proje\EmailRegex\obj\Debug\netcoreapp2.1\EmailRegex.csproj.CoreCompileInputs.cache
+D:\Proje\EmailRegex\obj\Debug\netcoreapp2.1\EmailRegex.AssemblyInfoInputs.cache
+D:\Proje\EmailRegex\obj\Debug\netcoreapp2.1\EmailRegex.AssemblyInfo.cs
+D:\Proje\EmailRegex\obj\Debug\netcoreapp2.1\EmailRegex.dll
+D:\Proje\EmailRegex\obj\Debug\netcoreapp2.1\EmailRegex.pdb
